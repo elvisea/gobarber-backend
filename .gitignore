@@ -10,4 +10,5 @@ dist
 
 tmpFolder/*
 !tmp/.gitkeep
+tmp/uploads/*
 !tmpFolder/.gitkeep
